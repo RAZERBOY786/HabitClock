@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "ath",
-    "slug": "ath",
+    "name": "HabitClock",
+    "slug": "HabitClock",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "ath",
+    "scheme": "HabitClock",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
